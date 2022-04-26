@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1633417939 source:c:\users\darbinieks\onedrive\dators\rc_skola_dati\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1637910399 source:c:\users\rc2816\desktop\rc_skola_dati\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1637913999 source:z:\programmçsana i\programmçðanas darbi\rc_skola_dati\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
